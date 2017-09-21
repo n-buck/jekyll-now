@@ -5,6 +5,9 @@ title: My Opinion on AI
 
 Hello
 
+Motivation
+---------
+
 I'am starting this blog on behalf of our AI-lecture.
 Our very first task: Write about our opinion on AI.
 
@@ -28,5 +31,8 @@ _AI-Artificial Intelligence_ It really sounds amazing! It fuels expectations, it
 At least it confuses me at the moment. Just like it's hard to define Inteligence, it's hard to define AI. And because of that it's hard to know what we can expect form an AI in the future. On thing the both articles agree with each other, and so do I, is that it will be even more important! But a computer-simulated mind? In 20 years? I don't beleave that. I don't even think that it is possilble to bring something like that to the general public, ever! Let's look at [Moore's Law](http://www.businessdictionary.com/definition/Moore-s-law.html):
 It is a prediction, that the numbers of transistors that can be squeezed onto a silicon chip of a given size, will double every 18 month! And it was a very accurate prediction so far. Actually modern CPU-architectures are using 10 nanometer technology. So the transistors are just 10 nm away from each other. And you have to consider the radius of an silicon-atom: 111 pm! So our transistors in a CPU are just 100 atoms away from each other! There is not that much to improve left.
 So no android-buddy for each one of us, maybe an androidal earthworm...
-For other things AI can rely help us in our daily life. Write easy readable news-articles, add automaticly a picture-desciption in your essays, or filter tons of data of a particle accelerator so you have to concern yourself with only a fraction of the whole output.
+Of course ther will be a lot of research in this topic, and maybe it will bear fruit some day but by far not as soon as the seccond article promised.
+
+
+For other things AI can rely help us in our daily life. Write easy readable news-articles, add automaticly a picture-desciption in your essays, or filter tons of data of a particle accelerator so you have to concern yourself with only a fraction of the whole output. And this is, how AI will influence the future in the first place.
 
