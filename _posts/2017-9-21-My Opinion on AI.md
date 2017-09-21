@@ -34,5 +34,7 @@ So no android-buddy for each one of us, maybe an androidal earthworm...
 Of course ther will be a lot of research in this topic, and maybe it will bear fruit some day but by far not as soon as the seccond article promised.
 
 
-For other things AI can rely help us in our daily life. Write easy readable news-articles, add automaticly a picture-desciption in your essays, or filter tons of data of a particle accelerator so you have to concern yourself with only a fraction of the whole output. And this is, how AI will influence the future in the first place.
+For other things AI can rely help us in our daily life. Write easy readable news-article, add automaticly a picture-desciption in your essays or filter tons of data of a particle accelerator so you have to concern yourself with only a fraction of the whole output. I think this is, how AI will influence the future in the first place. AI will assist us, but won't become a _being_.
 
+
+Maybe I'm a little short-minded. But parts of 'Wait But Why' are just silly! When I passed the part, where a ASI can alter the position of atoms, just by thinking, I stopped reading and watched iRobot, since I considered it more educational...
