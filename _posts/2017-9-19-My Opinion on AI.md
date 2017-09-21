@@ -10,9 +10,9 @@ Our very first task: Write about our opinion on AI.
 
 This is quiet difficult if you have no ida about this topic.
 Of course I knew a bit about it:
-  *Google, Facebook etc. are collecting data on mass.
-  *There are allready uses fo AI, like in Siri, pattern recognition...
-  *There is nothing yet, like an androidal-human-brain.
+  * Google, Facebook etc. are collecting data on mass.
+  * There are allready uses fo AI, like in Siri, pattern recognition...
+  * There is nothing yet, like an androidal-human-brain.
 
 But that is not enought to have a solid opinion!
 Luckily we had a lot of input.
